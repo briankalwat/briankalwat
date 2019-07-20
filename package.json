@@ -1,0 +1,26 @@
+{
+  "name": "briankalwat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briankalwat/briankalwat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://briankalwat.github.io/briankalwat",
+  "bugs": {
+    "url": "https://github.com/briankalwat/briankalwat/issues"
+  },
+  "homepage": "https://github.com/briankalwat/briankalwat#readme"
+}
